@@ -1,0 +1,10 @@
+sun
+sky
+river
+mountain
+star
+flower
+house
+book
+friend
+song
